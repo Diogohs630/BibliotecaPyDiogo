@@ -1,4 +1,4 @@
 # BibliotecaPyDiogo
-Atividade engenharia de software 1 CComp4 IFSUDEMINAS - Campus Muzambinho
+Atividade engenharia de software 1 CComp4 IFSULDEMINAS - Campus Muzambinho
 
 
